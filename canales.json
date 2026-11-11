@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "nombre": "TV Huacho",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/F4NZM3s.jpeg",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8"
+  },
+  {
+    "id": 2,
+    "nombre": "Teleshow",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/cF7gJ2Q.jpeg",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8"
+  },
+  {
+    "id": 3,
+    "nombre": "dac TV",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/g4pZ3ZW.jpeg",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8"
+  },
+  {
+    "id": 4,
+    "nombre": "UNITEL PERU",
+    "categoria": "Nacional",
+    "imagen": "https://i.imgur.com/F0PWpyc.png",
+    "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
+  },
+  {
+    "id": 5,
+    "nombre": "AT Caliente",
+    "categoria": "Musica",
+    "imagen": "https://i.imgur.com/MFQpLuQ.png",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
+  },
+  {
+    "id": 6,
+    "nombre": "trivu",
+    "categoria": "Salud",
+    "imagen": "https://i.imgur.com/QrUYjOS.png",
+    "url": "http://190.93.224.42/TRIVU-TV/index.m3u8"
+  },
+  {
+    "id": 7,
+    "nombre": "Señal peru TV",
+    "categoria": "Musica",
+    "imagen": "https://i.imgur.com/1q0R6R9.png",
+    "url": "https://livestream.perucast.com/hls/stream.m3u8"
+  },
+  {
+    "id": 8,
+    "nombre": "Radio onda digital",
+    "categoria": "Radio",
+    "imagen": "https://i.imgur.com/Lid5RTv.png",
+    "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8"
+  },
+  {
+    "id": 9,
+    "nombre": "Autentica televicion",
+    "categoria": "Dibujos animados",
+    "imagen": "https://i.imgur.com/bEJK3RN.png",
+    "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"
+  },
+  {
+    "id": 10,
+    "nombre": "Cadena TV",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/stvzqzd.png",
+    "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
+  }
